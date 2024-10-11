@@ -18,7 +18,7 @@ This project is a simple web application that generates a multiplication table f
 
 ### Clone the Repository
 
-````bash
+
 git clone <repository-url>
 Deploy on Apache Tomcat
 Import the project into your Eclipse IDE:
@@ -46,7 +46,7 @@ Monu Yaduwanshi
 The application does not currently include database functionality but can be extended to store user input or results in a MySQL database if desired.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-````
+
 Additional Resources
 Java Servlets Documentation
 Apache Tomcat Documentation
