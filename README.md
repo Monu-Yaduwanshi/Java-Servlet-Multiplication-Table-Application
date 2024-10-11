@@ -18,7 +18,7 @@ This project is a simple web application that generates a multiplication table f
 
 ### Clone the Repository
 
-
+```
 git clone <repository-url>
 Deploy on Apache Tomcat
 Import the project into your Eclipse IDE:
@@ -41,7 +41,7 @@ http://localhost:8080/your-context-path
 You will see the multiplication table form where you can enter a number to generate its multiplication table.
 Author
 Monu Yaduwanshi
-
+```
   Notes
 The application does not currently include database functionality but can be extended to store user input or results in a MySQL database if desired.
 License
