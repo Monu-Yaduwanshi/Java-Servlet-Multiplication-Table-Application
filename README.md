@@ -47,11 +47,13 @@ The application does not currently include database functionality but can be ext
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+```
 Additional Resources
 Java Servlets Documentation
 Apache Tomcat Documentation
 Eclipse IDE
-
+```
 ### Key Points
 
 - Replace `<repository-url>` with the actual URL of your GitHub repository.
