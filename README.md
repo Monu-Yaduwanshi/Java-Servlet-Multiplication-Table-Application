@@ -41,7 +41,7 @@ http://localhost:8080/your-context-path
 You will see the multiplication table form where you can enter a number to generate its multiplication table.
 Author
 Monu Yaduwanshi
-````
+
   Notes
 The application does not currently include database functionality but can be extended to store user input or results in a MySQL database if desired.
 License
@@ -50,6 +50,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Additional Resources
 Java Servlets Documentation
 Apache Tomcat Documentation
+Eclipse IDE
+
+### Key Points
+
+- Replace `<repository-url>` with the actual URL of your GitHub repository.
+- Add or modify the resources and links in the **Additional Resources** section as needed.
+
+This format ensures that users can easily access useful documentation or tools related to your project directly from the `README.md`. Let me know if you need more assistance!
 
 Feel free to replace `<repository-url>` with the actual URL of your repository. Let me know if you need any changes or additional information!
 
